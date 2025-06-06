@@ -70,6 +70,7 @@ function Video(props) {
 
   return (
     <div>
+      <div> Testing </div>
       <FullScreen handle={handle}>
         <div>
           <ReactPlayer
